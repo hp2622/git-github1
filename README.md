@@ -1,2 +1,2 @@
 # git-github1
-test repo
+this is test repo for tutorial
